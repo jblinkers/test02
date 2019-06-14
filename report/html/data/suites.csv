@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.E:\jenkins\scripts.test_login.TestLogin.test_login_003","0",""
+"failed","scripts.E:\jenkins\scripts.test_login.TestLogin.test_login_001","32",""
+"failed","scripts.E:\jenkins\scripts.test_login.TestLogin.test_login_002","0",""

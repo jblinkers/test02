@@ -1,0 +1,60 @@
+{
+  "uid" : "a235d5a5366338e7",
+  "name" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_003",
+  "fullName" : "scripts.E:\\jenkins\\scripts.test_login.TestLogin.test_login_003",
+  "historyId" : "933fac6fdf4ab7994fd75ed61d0d792e",
+  "time" : {
+    "start" : 1560476600177,
+    "stop" : 1560476600177,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Owner-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8232-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_003"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a235d5a5366338e7.json",
+  "parameterValues" : [ ]
+}

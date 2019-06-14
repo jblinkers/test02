@@ -1,0 +1,66 @@
+{
+  "uid" : "d5933a95ca88c34e",
+  "name" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_002",
+  "fullName" : "scripts.E:\\jenkins\\scripts.test_login.TestLogin.test_login_002",
+  "historyId" : "9c7a0045926660178902828f678d64d6",
+  "time" : {
+    "start" : 1560476600162,
+    "stop" : 1560476600162,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x0000000003FBA0B8>\n\n    def test_login_002(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_login.py:5: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Owner-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8232-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_002"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d5933a95ca88c34e.json",
+  "parameterValues" : [ ]
+}

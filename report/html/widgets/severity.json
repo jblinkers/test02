@@ -1,0 +1,31 @@
+[ {
+  "uid" : "d5933a95ca88c34e",
+  "name" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_002",
+  "time" : {
+    "start" : 1560476600162,
+    "stop" : 1560476600162,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6f46663d904b8f",
+  "name" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_001",
+  "time" : {
+    "start" : 1560476600130,
+    "stop" : 1560476600162,
+    "duration" : 32
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a235d5a5366338e7",
+  "name" : "E:\\jenkins\\scripts.test_login.TestLogin.test_login_003",
+  "time" : {
+    "start" : 1560476600177,
+    "stop" : 1560476600177,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
