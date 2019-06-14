@@ -1,12 +1,12 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560476600130" stop="1560476600177">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560493265589" stop="1560493265683">
   <name>scripts</name>
   <labels/>
   <test-cases>
-    <test-case start="1560476600130" status="failed" stop="1560476600162">
+    <test-case start="1560493265589" status="failed" stop="1560493265620">
       <name>E:\jenkins\scripts.test_login.TestLogin.test_login_001</name>
       <failure>
         <message>AssertionError: assert 0</message>
-        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x0000000003779A58&gt;
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x0000000003754F28&gt;
 
     def test_login_001(self):
 &gt;       assert 0
@@ -17,18 +17,18 @@ scripts\test_login.py:3: AssertionError</stack-trace>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="8232-MainThread"/>
+        <label name="thread" value="11452-MainThread"/>
         <label name="host" value="Owner-PC"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1560476600162" status="failed" stop="1560476600162">
+    <test-case start="1560493265683" status="failed" stop="1560493265683">
       <name>E:\jenkins\scripts.test_login.TestLogin.test_login_002</name>
       <failure>
         <message>AssertionError: assert 0</message>
-        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x0000000003FBA0B8&gt;
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x000000000376FF98&gt;
 
     def test_login_002(self):
 &gt;       assert 0
@@ -39,19 +39,19 @@ scripts\test_login.py:5: AssertionError</stack-trace>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="8232-MainThread"/>
+        <label name="thread" value="11452-MainThread"/>
         <label name="host" value="Owner-PC"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1560476600177" status="passed" stop="1560476600177">
+    <test-case start="1560493265683" status="passed" stop="1560493265683">
       <name>E:\jenkins\scripts.test_login.TestLogin.test_login_003</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="8232-MainThread"/>
+        <label name="thread" value="11452-MainThread"/>
         <label name="host" value="Owner-PC"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
